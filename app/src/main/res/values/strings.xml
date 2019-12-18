@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise 4</string>
+    <string name="Age">How old are you?</string>
+    <string name="Birthday">Select your birthday</string>
+    <string name="birthday">Birthday?</string>
+    <string name="SelectBirthday">Select Your Birthday Here!</string>
+    <string name="age">Age :</string>
+    <string name="Min">Min Saving :</string>
+    <string name="Member">Member?</string>
+</resources>
